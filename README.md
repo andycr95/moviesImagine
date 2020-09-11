@@ -7,7 +7,7 @@ Project made with React Native for knowledge test. [React](https://reactnative.d
 #### Clone the app
 
 ```
-git clone https://github.com/andycr95/imagineMovies
+git clone https://github.com/andycr95/moviesImagine
 ```
 
 #### Install Dependancies
