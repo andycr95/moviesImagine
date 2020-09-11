@@ -78,6 +78,6 @@ https://facebook.github.io/react-native/docs/signed-apk-android.html
 
 ### Screens
 <div style="text-align:center">
-	<img src="screenshots/home.png" />
-	<img src="screenshots/details.png" />
+	<img style="max-width:200px" src="screenshots/home.png" />
+	<img style="max-width:200px" src="screenshots/details.png" />
 </div>
