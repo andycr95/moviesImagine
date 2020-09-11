@@ -7,7 +7,7 @@ Project made with React Native for knowledge test. [React](https://reactnative.d
 #### Clone the app
 
 ```
-git clone https://github.com/andycr95/imagineMovies
+git clone https://github.com/andycr95/moviesImagine
 ```
 
 #### Install Dependancies
@@ -30,6 +30,10 @@ API_MOVIE_KEY='YOUR_API_KEY'
 #### Link Dependancies ( one time activity )
 
 ``` JavaScript
+
+// link Assets
+react-native link
+
 // link vector icons
 react-native link react-native-vector-icons
 
@@ -73,7 +77,7 @@ https://facebook.github.io/react-native/docs/signed-apk-android.html
 ```
 
 ### Screens
-<div style="text-align:center">
+<div id="screens" style="text-align:center width:500px"">
 	<img src="screenshots/home.png" />
 	<img src="screenshots/details.png" />
 </div>
