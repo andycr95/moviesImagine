@@ -30,6 +30,10 @@ API_MOVIE_KEY='YOUR_API_KEY'
 #### Link Dependancies ( one time activity )
 
 ``` JavaScript
+
+// link Assets
+react-native link
+
 // link vector icons
 react-native link react-native-vector-icons
 
